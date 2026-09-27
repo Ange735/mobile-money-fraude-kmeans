@@ -1,4 +1,4 @@
-# TP 2 : Détection de fraude Mobile Money avec K-means
+## Détection de fraude Mobile Money avec K-means
 
 Détection non supervisée de fraudes dans 8 130 transactions Mobile Money (Afrique de l'Ouest), sans étiquettes, avec K-means.
 
